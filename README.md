@@ -1,4 +1,4 @@
-# A Chatting app 
+# A Real-time chatting app 
 Build on React and Redux with socket.io for real time chatting as MERN project you can make a group chat as well Login and signup authenticate with bcrypt and json web token live socket single chat group chat sending notification , profile upload and awesome UI/UX storing the chat on MongoDB complete schema using Mongoose
 
 And to make unidirectional i used Redux for making any api call and state management as well
